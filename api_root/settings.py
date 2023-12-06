@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-padzujn%_5@w-=c(m+)k6+3gzp&4)n&lt&cxxwrc1+712i)0c^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://pixrouter-23f4b9946658.herokuapp.com/']
+ALLOWED_HOSTS = ['https://apirouter-62f8d04ffe80.herokuapp.com/']
 
 
 # Application definition
