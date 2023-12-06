@@ -7,7 +7,9 @@ colorama==0.4.6
 distlib==0.3.7
 dj-database-url==2.1.0
 Django==5.0
+django-cors-headers==4.3.1
 django-heroku==0.3.1
+djangorestframework==3.14.0
 filelock==3.13.1
 Flask==3.0.0
 gerencianet==3.0.0
